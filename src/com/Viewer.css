@@ -1,0 +1,7 @@
+.Viewer {
+    background-color: #444;
+    width: 90%;
+    height: 80%;
+    position: absolute;
+    overflow: scroll;
+}
